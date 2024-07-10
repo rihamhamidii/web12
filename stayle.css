@@ -1,0 +1,139 @@
+
+body {
+    font-family: Arial, sans-serif;
+
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #f4f6f8;
+    text-align: left;
+    padding: 100px 20px;
+    margin: 300px 300px 0px 200px;
+}
+.ion{margin: -220px 0px 0px 580px ;}
+.le{margin: 0px 0px 0px 100px;color: #28a745;}
+.ls{margin-left: 100px;}
+.wh{margin: 10px 0px 0px 100px;}
+.re{margin: 30px 0px 0px 100px; background-color: #28a745;color: #f4f6f8;}
+.or{ 
+    background-color: #ffffff;
+     margin: -20px 300px 0px 200px;}
+     .cl{margin-top: -30px;}
+     .hav{margin-top: -12px;}
+     #manage-community { background-color: #ffffff;
+        margin: -20px 300px 0px 200px;}
+        .ent{margin: -23px 0px 0px 0px;}
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+header button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+#clients {
+    background-color: #fff;
+}
+
+#clients .client-logos img {
+    width: 50px;
+    margin: 10px;
+}
+
+
+
+#manage-community .community-options {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#manage-community .option {
+    background-color: white;
+    padding: 15px;
+    width: 25%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#pix {
+    background-color: #ffffff;
+    margin: 0px 300px 0px 200px;
+
+}
+.busi{color: #17b82f;
+}
+.th{margin:2px 0PX 0PX 300PX;}
+.ye{margin:2px 120PX 0PX 300PX;}
+.fram{margin: -220PX 500PX 0PX 0PX;}
+.li{margin:8px 0PX 0PX 320PX;}
+.mor{margin:15px 0PX 0PX 50pX; width: 90px; height: 30px;
+background-color: #27d032;color: #f4f6f8;border:none;}
+#pixelgrade button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#business-reinvention {
+    margin: 0px 300px 0px 200px;
+    display: flex;
+    font-weight: bold;
+    background-color: #f4f6f8;
+}
+
+#business-reinvention .stats {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#business-reinvention .stats div {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    width: 20%;
+    height: 40%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#footer-design {
+    background-color: #ffffff;
+    margin: 0px 300px 100px 200px;
+}
+.ho{margin: -280px 0px 0px 300px;}
+.lr{margin: 0px 0px 0px 400px;}
+.w{margin: 0px 20px 10px 0px;}
+.mo{margin: 0px 0px 0px 30px;
+width: 125px; height:35px;
+margin-top: 20px;
+}
+#footer-design button {
+    background-color: #17b82f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+.pan{margin: -20px 500px 50px 0px;}
+
+.n3{margin: 0px 0px 0px 270px;}
+
